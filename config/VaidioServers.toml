@@ -1,0 +1,23 @@
+[[server]]
+ainvr_id = 1
+address = "http://194.171.89.151"
+prefix = "/ainvr/api"
+port = 0
+timeout = 15
+auth = 2
+username = "admin"
+password = "v@185CHE"
+api_key_token = ""
+image_prefix = "/ainvr/samba"
+
+[[server]]
+ainvr_id = 2
+address = "http://194.171.89.153"
+prefix = "/ainvr/api"
+port = 0
+timeout = 15
+auth = 2
+username = "admin"
+password = "v@185CHE"
+api_key_token = ""
+image_prefix = "/ainvr/samba"

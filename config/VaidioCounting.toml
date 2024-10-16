@@ -1,0 +1,24 @@
+[[sections]]
+desc = "Bezetting Totaal"
+line_id = [ 1, 3, 5, 6, 7 ]
+line_id_rev = [ ]
+
+[[sections]]
+desc = "Bezetting Prisma"
+line_id = [ 3, 4, 6 ]
+line_id_rev = [ ]
+
+[[sections]]
+desc = "Bezetting Spectrum"
+line_id = [ 1, 5, 7 ]
+line_id_rev = [ 4 ]
+
+[[servers]]
+ainvr_id = 1
+line_id = [ 1, 3, 4 ]
+types = "person"
+
+[[servers]]
+ainvr_id = 2
+line_id = [ 5, 6, 7 ]
+types = "person"

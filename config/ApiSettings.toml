@@ -1,0 +1,4 @@
+debug = false
+address = "0.0.0.0"
+http_port = 8765
+https_port = 8787
